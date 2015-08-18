@@ -1,0 +1,13 @@
+---
+layout: post
+title: "2015.08.08-week-4-blogpost"
+date: 2015-08-08 11:34:17 -0500
+comments: true
+categories: 
+---
+
+This week I feel more lost then ever. 
+I'm starting to think that I'm going to fail this class.
+I don't know what to do anymore. 
+No matter what I do, I don't feel like I can keep up with everyone in the class.
+It is frustrating to see that even with all my effort, I am still behind on my worksheet.

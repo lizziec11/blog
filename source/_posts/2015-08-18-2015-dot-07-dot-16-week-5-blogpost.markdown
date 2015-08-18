@@ -1,0 +1,15 @@
+---
+layout: post
+title: "2015.07.16-week-5-blogpost"
+date: 2015-07-16 11:35:37 -0500
+comments: true
+categories: 
+---
+Week 5 is not so bad I'm lost but not with everything.
+Things are starting to make sense little by little.
+Beginning to learn things on my own as much as I can
+but I could use more help.
+If I have a partner who can help with explaining things to me, I  will be able to know more.
+I will use what I learn to my work.
+Learning on my own is good but sometimes I get lost and I cannot get others to explain things to me.
+I am doing all I can to be better but more help would go a long way me.

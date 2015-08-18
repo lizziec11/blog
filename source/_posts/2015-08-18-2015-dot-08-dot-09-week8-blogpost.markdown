@@ -1,0 +1,13 @@
+---
+layout: post
+title: "2015.08.09-week8-blogpost"
+date: 2015-08-09 11:40:42 -0500
+comments: true
+categories: 
+---
+Week 8 is better than last week. 
+I was able to get help through extra class on the weekend. 
+I'm really happy to learn how to answer some difficult questions.
+The class helped me to understand a big part of my work that I find really hard.
+I'm learning to solve part of my work but I still have a long way to go. 
+I hope next week will be better or at least, as good as this week.

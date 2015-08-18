@@ -1,0 +1,11 @@
+---
+layout: post
+title: "2015.07.26-week-3-blogpost"
+date: 2015-07-26 11:32:05 -0500
+comments: true
+categories: 
+---
+Week three was very hard for me chapter 2 was not easy 
+i just wish to have someone that we can work together with than to be doing it
+all by myself. I feel that we are going too fast with chapter 2 and it is becoming difficult to catch up. The chapter has a lot of ideas that are not clear.
+I don't have a foundation in coding so i need more help with the chapter. I hope week 4 will be better.

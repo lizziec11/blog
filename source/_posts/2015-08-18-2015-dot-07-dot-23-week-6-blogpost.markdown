@@ -1,0 +1,15 @@
+---
+layout: post
+title: "2015.07.23-week-6-blogpost"
+date: 2015-07-23 11:36:31 -0500
+comments: true
+categories: 
+---
+
+week six i'm still having a hard time but i'm getting as much help as i can. There is so much work to do and 
+i've been really depressed for weeks but i'm
+trying to count my blessings instead of complaining about what is going wrong in my life.
+I'm dealing with some personal issues which is getting in the way of stuffs that I'm learning. 
+It is difficult for me to understand alot of the concepts 
+and it is adding to my frustration. 
+Even with the help i've got, I still have a lot of work to do.
